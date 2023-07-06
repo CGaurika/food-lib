@@ -20,11 +20,11 @@ So, whether you're seeking a new recipe to impress your guests, craving to try a
 
 #FoodiesHaven #RecipesFromAroundTheWorld #CulinaryExploration #FoodBlog #CommunityOfFoodLovers
 
-The website looks like this once the code is run: 
+The website looks like this once the code is run 🖥️🎓: 
 
 THERE ARE 2 PRIMARY SECTIONS:
-- Browse by food category
-- Read famous blogs across different social media platforms
+- Browse by food category 🍱
+- Read famous blogs across different social media platforms 📚䷉
 
 <img width="1440" alt="Screenshot 2023-07-01 at 13 57 50" src="https://github.com/CGaurika/food-lib/assets/105790460/997cf6ff-6274-4919-8be5-15106f9f5e82">
 
